@@ -1,0 +1,1 @@
+const dtn = document.getElementById
